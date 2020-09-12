@@ -1,4 +1,4 @@
-[Hello](Hello)
+
 # Statistical Concepts
 - An overall review of cases solved to learn following concepts.
 - Presentations attached of the conclusion made while studying these case studies.
